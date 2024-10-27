@@ -1,0 +1,12 @@
+[package]
+name = "eirship"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+daemonize = "0.4"
+log = "0.4"
+inotify = "0.10"
+simplelog = "0.12"
+serde = "1.0.213"
+rusqlite = "0.29.0" 
